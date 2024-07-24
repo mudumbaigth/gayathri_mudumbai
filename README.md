@@ -9,4 +9,4 @@
 # 📫 How to reach me
 # 📄 Get to know about my experiences via my resume 
 # ⚡ Fun fact: I'm addicted to learning!
-# gayathri_mudumbai
+
