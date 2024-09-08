@@ -7,6 +7,6 @@
 # 👨‍💻 All of my projects are available at Dataprojects_tripleten
 # 💬 Ask me about TripleTen.
 # 📫 Reach me at mudumbaigth@gmail.com
-# 📄 Get to know about my experiences via my resume 
+# 📄 Get to know about my experiences via my [Resume](https://1drv.ms/b/s!Ajp6tlAKFWLSxHwlCS04EVtSYuIb?e=f4onYd)
 # ⚡ Fun fact: I'm addicted to learning!
 
