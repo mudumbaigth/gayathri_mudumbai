@@ -1,3 +1,4 @@
+<span style="font-family: Arial; font-size: 12px;">
 # Hi There I'm Gayathri Mudumbai
 
 # 🔭 I’m currently working on Power BI certification.
